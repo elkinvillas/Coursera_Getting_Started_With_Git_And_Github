@@ -4,9 +4,9 @@
 
    # Do not use this in production. Sample purpose only.
 
-   # Author: Upkar Lidder (IBM)
+   # Author: elkinvillas (IBM)
    # Additional Authors:
-   # https://github.com/ShamimShahraeini
+   #  https://github.com/elkinvillas/
 
    # Input:
    # p, principal amount
